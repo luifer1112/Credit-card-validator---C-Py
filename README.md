@@ -1,4 +1,3 @@
-# Credit-card-validator---C-Py
 # Credit Card Validation Algorithm (Luhn's Algorithm in C & Python)
 
 ## Description
